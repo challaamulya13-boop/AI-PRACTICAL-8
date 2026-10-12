@@ -1,2 +1,2 @@
 # AI-PRACTICAL-8
-probability 
+spam or not spam
